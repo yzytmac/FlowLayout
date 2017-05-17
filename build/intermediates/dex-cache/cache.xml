@@ -3,12 +3,93 @@
 
     <item
         is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_0f8e3c707b275c4fd3dad602c45f1daad0790909.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
         <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_19578a2aab947d813bf1d6b7748836664413a93f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_57279707e82d20ab1f9b149a19df92f6d2843f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_3cf036894e48e0498438c75738978ace28725ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_3c55d0fc681fb4d0925042e7a194c7c9240ce607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_e9ec9f0e444029e97dd9bab6ee04551140b44662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_75e8cf736c88d884629d5afa103b47fdd426bc6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_cf007b0ec6d1d24c78a28303be087f26e14c8e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_af6d9850c82b6924eb2006ab37069a85e1f114c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_2a4a6ff5b274d22a295eecfd25a49d80e251bb9c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,30 +111,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_3cf036894e48e0498438c75738978ace28725ef6.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
         <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_7a2176d522f71a95a13dbf50ee0b2449f73a5da9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_e9ec9f0e444029e97dd9bab6ee04551140b44662.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,15 +129,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_75e8cf736c88d884629d5afa103b47fdd426bc6e.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/yzy/DevTools/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
@@ -84,12 +138,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/yzy/workspace2/PuBuLiu/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_af6d9850c82b6924eb2006ab37069a85e1f114c5.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_95e79271a0630de8144b083c2383a4cd394ba059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_08a465104a7c5fe24a88ce633c20ca9c6e9a9ed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_6c960f2a1cdd6d30b690ce23dd37643b817798bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/workspace2/FlowLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yzy/workspace2/FlowLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_13285b1bfdcb50834cd8b137be575d0ae5b4a498.jar" />
     </item>
 
 </items>
